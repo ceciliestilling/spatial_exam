@@ -29,7 +29,7 @@ By Line Stampe-Degn Møller and Cecilie Stilling Pedersen
 | ------------------------ | -------------------------------------|
 | alc_cons.csv             | Global alcohol consumption data      |
 | alc_cons_us.csv          | US alcohol consumption data          |
-| temp_us.csv              | US temperature data
+| temp_us.csv              | US temperature data                  |
 
 
 
