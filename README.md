@@ -14,12 +14,22 @@ By Line Stampe-Degn Møller and Cecilie Stilling Pedersen
 
 
 
-### Software metadata
+### Software 
 
 | Software                 | Description                          |
 | ------------------------ | -------------------------------------|
 | Current software version | R 4.1.2, RStudio 1.1.463             |
 | Operating System         | Microsoft Windos 10 & 11             |
+
+
+
+### Metadata 
+
+| Metadata                 | Description                          |
+| ------------------------ | -------------------------------------|
+| alc_cons.csv             | Global alcohol consumption data      |
+| alc_cons_us.csv          | US alcohol consumption data          |
+| temp_us.csv              | US temperature data
 
 
 
