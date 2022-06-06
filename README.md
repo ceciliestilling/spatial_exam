@@ -33,7 +33,7 @@ By Line Stampe-Degn Møller and Cecilie Stilling Pedersen
 
 
 ### Contact details
-If you experience any issues with downloading the packages and installing dependencies feel free to contact us by e-mail:
+If you experience any issues feel free to contact us by e-mail:
 Line Stampe-Degn Møller: linesdmoller@gmail.com
 Cecilie Stilling Pedersen: cecilie.stilling.pedersen@gmail.com 
 
