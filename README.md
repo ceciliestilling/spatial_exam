@@ -13,6 +13,15 @@ By Line Stampe-Degn Møller and Cecilie Stilling Pedersen
 | output  | outputs from script                  |
 
 
+
+### 
+| Software                 | Description                          |
+| ------------------------ | -------------------------------------|
+| Current software version | R 4.1.2, RStudio 1.1.463             |
+| Operating System         | Microsoft Windos 10 & 11             |
+
+
+
 ### Contact details
 If you experience any issues with downloading the packages and installing dependencies feel free to contact us by e-mail:
 Line Stampe-Degn Møller: linesdmoller@gmail.com
