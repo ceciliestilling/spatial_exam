@@ -14,7 +14,8 @@ By Line Stampe-Degn Møller and Cecilie Stilling Pedersen
 
 
 
-### 
+### Software metadata
+
 | Software                 | Description                          |
 | ------------------------ | -------------------------------------|
 | Current software version | R 4.1.2, RStudio 1.1.463             |
