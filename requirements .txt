@@ -1,0 +1,12 @@
+raster
+dplyr
+tidyverse
+rworldmap 
+sf
+rnaturalearth
+ggplot2 
+stats
+sp
+spData
+rnaturalearthhires
+ggpubr
