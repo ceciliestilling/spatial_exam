@@ -2,7 +2,7 @@
 
 ## Climate and alcohol consumption
 *By Line Stampe-Degn Møller and Cecilie Stilling Pedersen*  
-*Both collaborators have contributed equally to all parts of the project*  
+Both collaborators have contributed equally to all parts of the project.  
 
   
 
@@ -36,7 +36,7 @@ This script investigates whether there is a relationship between alcohol consump
 | alc_cons_us.csv          | US alcohol consumption data          |
 | temp_us.csv              | US temperature data                  |
 
-The data on global temperature is downloaded in the script
+The data on global temperature is downloaded in the script.  
 
 ### Contact details
 If you experience any issues feel free to contact us by e-mail:  
