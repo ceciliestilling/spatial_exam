@@ -3,6 +3,10 @@
 ## Climate and alcohol consumption
 By Line Stampe-Degn Møller and Cecilie Stilling Pedersen
 
+
+
+This study sets out to investigate whether there is  a relationship between alcohol consumption and annual mean temperature.
+
 ### Repository structure
 
 | Folder  | Description                          |
