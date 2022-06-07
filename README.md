@@ -1,10 +1,10 @@
 # Final Project - Spatial Analytics
 
 ## Climate and alcohol consumption
-*By Line Stampe-Degn Møller and Cecilie Stilling Pedersen*
-*Both collaborators have contributed equally to all parts of the project*
+*By Line Stampe-Degn Møller and Cecilie Stilling Pedersen*  
+*Both collaborators have contributed equally to all parts of the project*  
 
-
+  
 
 
 This script investigates whether there is a relationship between alcohol consumption and annual mean temperature.
@@ -39,7 +39,7 @@ This script investigates whether there is a relationship between alcohol consump
 The data on global temperature is downloaded in the script
 
 ### Contact details
-If you experience any issues feel free to contact us by e-mail:
-Line Stampe-Degn Møller: linesdmoller@gmail.com
+If you experience any issues feel free to contact us by e-mail:  
+Line Stampe-Degn Møller: linesdmoller@gmail.com  
 Cecilie Stilling Pedersen: cecilie.stilling.pedersen@gmail.com 
 
