@@ -1,7 +1,7 @@
 # Final Project - Spatial Analytics
 
 ## Climate and alcohol consumption
-By Line Stampe-Degn Møller and Cecilie Stilling Pedersen
+*By Line Stampe-Degn Møller and Cecilie Stilling Pedersen*
 
 
 
