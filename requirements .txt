@@ -6,7 +6,7 @@ rworldmap
 ggplot2 
 raster
 spData
-ggpubr
+ggpubr 
 stats
 dplyr
 sp
