@@ -34,7 +34,7 @@ This script investigates whether there is a relationship between alcohol consump
 | alc_cons_us.csv          | US alcohol consumption data          |
 | temp_us.csv              | US temperature data                  |
 
-
+The data on global temperature is downloaded in the script
 
 ### Contact details
 If you experience any issues feel free to contact us by e-mail:
