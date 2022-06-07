@@ -24,7 +24,7 @@ This script investigates whether there is a relationship between alcohol consump
 | Software                 | Description                          |
 | ------------------------ | -------------------------------------|
 | Current software version | R 4.1.2, RStudio 1.1.463             |
-| Operating System         | Microsoft Windos 10 & 11             |
+| Operating System         | Microsoft Windows 10 & 11             |
 
 
 
