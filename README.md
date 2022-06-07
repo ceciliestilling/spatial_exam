@@ -2,6 +2,8 @@
 
 ## Climate and alcohol consumption
 *By Line Stampe-Degn Møller and Cecilie Stilling Pedersen*
+*Both collaborators have contributed equally to all parts of the project*
+
 
 
 
