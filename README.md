@@ -13,7 +13,7 @@ This script investigates whether there is a relationship between alcohol consump
 
 | Folder  | Description                          |
 | ------- | -------------------------------------|
-| src     | project folder containing main script|
+| src     | project folder containing main script and rendered html|
 | data    | data folder                          |
 | output  | outputs from script                  |
 
